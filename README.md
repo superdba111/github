@@ -1,5 +1,7 @@
 # github
+This is git project
 
 ## Introduction
 
-ting for git function
+
+## Git/Github Training
